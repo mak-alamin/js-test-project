@@ -1,0 +1,16 @@
+/*!*************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles/layout.css ***!
+  \*************************************************************************/
+*, html, body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/styles/style.css ***!
+  \************************************************************************/
+body {
+    background-color: rgb(88, 190, 224);
+    font-family: Poppins, sans-serif;
+  }
+  
